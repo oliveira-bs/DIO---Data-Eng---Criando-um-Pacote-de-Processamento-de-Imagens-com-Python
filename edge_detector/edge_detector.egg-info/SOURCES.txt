@@ -1,0 +1,10 @@
+README.md
+setup.py
+edge_detector/__init__.py
+edge_detector/detector.py
+edge_detector/utils.py
+edge_detector.egg-info/PKG-INFO
+edge_detector.egg-info/SOURCES.txt
+edge_detector.egg-info/dependency_links.txt
+edge_detector.egg-info/requires.txt
+edge_detector.egg-info/top_level.txt
